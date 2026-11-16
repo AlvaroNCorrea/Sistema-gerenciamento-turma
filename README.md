@@ -1,4 +1,4 @@
-# 🏫 Sistema de Gerenciamento de Turma (Turma AD6)
+# 🏫 Sistema de Gerenciamento (Turma AD6)
 
 Este é um projeto simples desenvolvido em Python para gerenciar o cadastro de professores e alunos de uma turma específica. O sistema utiliza estruturas de dados em dicionários e listas, além de funções dinâmicas com interação via terminal para organizar e atualizar os dados.
 
